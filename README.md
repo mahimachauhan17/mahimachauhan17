@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Mahima Chauhan, a third-year B.Tech AIML student with strong skills in Python, Java, DSA, and OOP. I’ve built AI projects like a virtual assistant, AI interview bot, prompt-corrector Chrome extension, and voice-controlled browser automation tools. I actively participate in hackathons, hold a leadership role as Vice President of a tech society, and I’m certified in Generative AI by DeepLearning.AI. I’m passionate about building practical AI solutions and growing as an AI Engineer.
+I’m Mahima Chauhan, a fourth year B.Tech AIML student with strong skills in Python, Java, DSA, and OOP. I’ve built AI projects like a virtual assistant, AI interview bot, prompt-corrector Chrome extension, and voice-controlled browser automation tools. I actively participate in hackathons, hold a leadership role as Vice President of a tech society, and I’m certified in Generative AI by DeepLearning.AI. I’m passionate about building practical AI solutions and growing as an AI Engineer.
 
 
 ## 🌐 Socials:
